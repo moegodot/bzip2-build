@@ -1,0 +1,6 @@
+[submodule "ninja"]
+	path = ninja
+	url = https://github.com/moegodot/ninja-build
+[submodule "bzip2"]
+	path = bzip2
+	url = https://github.com/libarchive/bzip2
